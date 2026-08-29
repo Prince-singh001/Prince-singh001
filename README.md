@@ -163,6 +163,33 @@ Motto: "Turn ambitious AI ideas into high-impact reality, one build at a time."
 ```
 
 ---
+### 🗂️ Profile Summary & Language Breakdown Graphs
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-singh001&theme=tokyonight" alt="GitHub Profile Details Card" height="170"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prince-singh001&theme=tokyonight" alt="Repos Per Language Graph" height="170"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-singh001&theme=tokyonight" alt="Most Commit Language Graph" height="170"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-singh001&theme=tokyonight" alt="Productive Time Graph" height="170"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
 
 ### 🛠️ Tech Stack & Toolkit
 
@@ -305,32 +332,6 @@ Motto: "Turn ambitious AI ideas into high-impact reality, one build at a time."
 
 ---
 
-### 🗂️ Profile Summary & Language Breakdown Graphs
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-singh001&theme=tokyonight" alt="GitHub Profile Details Card" height="170"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prince-singh001&theme=tokyonight" alt="Repos Per Language Graph" height="170"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-singh001&theme=tokyonight" alt="Most Commit Language Graph" height="170"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-singh001&theme=tokyonight" alt="Productive Time Graph" height="170"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
 
 ### 🏆 GitHub Trophies
 
