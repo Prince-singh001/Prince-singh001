@@ -231,6 +231,14 @@ Motto: "Turn ambitious AI ideas into high-impact reality, one build at a time."
   <a href="https://www.hackerearth.com/@sprince123ap" target="_blank">
     <img src="https://img.shields.io/badge/HackerEarth-sprince123ap-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
   </a>
+
+  <br/><br/>
+
+  <!-- Interactive LeetCode Activity Graph Card -->
+  <a href="https://leetcode.com/sprince01/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/sprince01?theme=dark&font=Karma&ext=activity" alt="LeetCode Activity Graph" height="195"/>
+  </a>
+
 </div>
 
 ---
@@ -264,6 +272,33 @@ Motto: "Turn ambitious AI ideas into high-impact reality, one build at a time."
 
 ---
 
+### 🗂️ Profile Summary & Language Breakdown Graphs
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-singh001&theme=tokyonight" alt="GitHub Profile Details Card" height="170"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prince-singh001&theme=tokyonight" alt="Repos Per Language Graph" height="170"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-singh001&theme=tokyonight" alt="Most Commit Language Graph" height="170"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-singh001&theme=tokyonight" alt="Productive Time Graph" height="170"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <div align="center">
@@ -274,7 +309,7 @@ Motto: "Turn ambitious AI ideas into high-impact reality, one build at a time."
 
 ---
 
-### 📈 Contribution Activity
+### 📈 Contribution Activity Graph
 
 <div align="center">
   <p><i>Visualizing consistency, active commits, and coding frequency over time</i></p>
