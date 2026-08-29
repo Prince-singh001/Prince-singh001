@@ -197,11 +197,29 @@ I regularly practice Data Structures & Algorithms and competitive programming to
 
 ## 📈 Contribution Graph
 
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-singh001&theme=tokyo-night&hide_border=true"/>
-
+  <i>My GitHub activity over the last 31 days</i>
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Prince-singh001">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-singh001&theme=tokyo-night&hide_border=true&area=true"
+      alt="Prince Singh GitHub Contribution Graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+<br>
+
+<!-- ================= END CONTRIBUTION ================= -->
 
 ---
 
