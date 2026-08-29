@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003B5C,100:00B4D8&height=230&section=header&text=Prince%20Singh&fontSize=55&fontColor=E6F7FF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=AI%2FML+Enthusiast;Python+Developer;Generative+AI+Learner;Machine+Learning+%7C+Deep+Learning;Computer+Vision+Developer;Building+Intelligent+Projects" />
+<img src="https://readme-typing-svg.demolab.com?
+font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=AI%2FML+Enthusiast;Python+Developer;Generative+AI+Learner;Machine+Learning+%7C+Deep+Learning;Computer+Vision+Developer;Building+Intelligent+Projects" />
 
 <br><br>
 
