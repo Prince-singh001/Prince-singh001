@@ -44,9 +44,37 @@
 
 ---
 
-### 👨‍💻 About Me
+<!-- Animated Starry About Me Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:80FFDB,50:00D9FF,100:3B82F6&height=75&section=header&text=✨%20ABOUT%20ME%20✨&fontSize=32&fontColor=80FFDB&animation=twinkling" width="100%" alt="About Me Starry Header"/>
+
+  <!-- High-Impact Colorful Highlight Pills -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/⭐%20Identity-Python%20%7C%20AI%2FML%20%7C%20FullStack-80FFDB?style=for-the-badge&labelColor=051329" alt="Identity"/>
+    <img src="https://img.shields.io/badge/🌟%20Focus-Generative%20AI%20%26%20LLMs-00F0FF?style=for-the-badge&labelColor=051329" alt="Focus"/>
+    <img src="https://img.shields.io/badge/🚀%20Project-InterviewerBuddy%20AI-FF6F00?style=for-the-badge&labelColor=051329" alt="Project"/>
+    <img src="https://img.shields.io/badge/💡%20Mission-High--Impact%20AI%20Solutions-EE4C2C?style=for-the-badge&labelColor=051329" alt="Mission"/>
+  </p>
+</div>
+
+<div align="center">
+
+| ✦ Attribute | ✦ Details & Direction |
+| :--- | :--- |
+| 🧑‍💻 **Developer Name** | **Prince Singh** |
+| 💼 **Current Roles** | `Python Developer` • `AI/ML Engineer` • `FullStack Developer` |
+| 🎯 **Core Passions** | **Generative AI**, **Deep Learning**, **Full-Stack Systems**, & **Computer Vision** |
+| 🔮 **Current Exploration** | **Large Language Models (LLMs)**, **RAG Pipelines**, & **Autonomous AI Agents** |
+| 🛠️ **Active Development** | **InterviewerBuddy AI** *(Intelligent Mock Interview & Assessment Companion)* |
+| 🌾 **Open Source Focus** | **AgrotechSolution AI** *(AI & Vision for Smart Agricultural Optimization)* |
+| ⚡ **Guiding Principle** | *"Turn ambitious AI ideas into high-impact reality, one build at a time."* |
+
+</div>
+
+<br/>
 
 ```yaml
+# ✦ DEVELOPER TERMINAL OVERVIEW ✦
 Name: Prince Singh
 Role: Python Developer || AI/ML Engineer || FullStack Developer
 Interests: Generative AI, Deep Learning, Full-Stack Architectures & Computer Vision
@@ -56,13 +84,13 @@ Passion: Engineering scalable full-stack and AI-driven solutions to solve real-w
 Motto: "Turn ambitious AI ideas into high-impact reality, one build at a time."
 ```
 
-* 🤖 **AI/ML & GenAI Specialist:** Passionate about designing and deploying end-to-end intelligent models and agents.
-* 💻 **Full-Stack Developer:** Building responsive, high-performance web applications with modern frontend & backend architectures.
-* 🐍 **Python Core:** Deep expertise in Python-based machine learning pipelines, automation, async backends, and APIs.
-* 🧠 **Exploring Frontiers:** Advancing in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, **LLMs**, and **Vision AI**.
-* 🌱 **Continuous Growth:** Mastering modern frameworks (FastAPI, React, Next.js, PyTorch, LangChain) and cloud systems.
-* 📊 **Strong Fundamentals:** Rigorously solving **Data Structures & Algorithms** for optimal time and space efficiency.
-* 🚀 **Collaborator & Innovator:** Actively seeking hackathons, open-source projects, and engineering partnerships.
+* 🤖 **AI/ML & GenAI Specialist:** Architecting and deploying cutting-edge neural networks, computer vision pipelines, and intelligent AI models.
+* 💻 **Full-Stack Developer:** Building responsive, high-performance web applications with seamless frontend-to-backend integrations.
+* 🐍 **Python Core:** Deep expertise in asynchronous backends, automation scripts, ML training pipelines, and REST/FastAPI endpoints.
+* 🧠 **Exploring Frontiers:** Advancing in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, **LLM Fine-Tuning**, and **Vision AI**.
+* 🌱 **Continuous Growth:** Experimenting daily with modern AI frameworks (PyTorch, TensorFlow, LangChain, Hugging Face) and scalable cloud systems.
+* 📊 **Algorithmic Problem Solver:** Rigorously solving **Data Structures & Algorithms** for optimal time and space complexity.
+* 🚀 **Collaborator & Innovator:** Always excited for hackathons, open-source initiatives, and impactful engineering partnerships.
 
 ---
 
