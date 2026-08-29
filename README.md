@@ -207,9 +207,9 @@ I regularly practice Data Structures & Algorithms and competitive programming to
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Prince-singh001/Prince-singh001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
+  <img src="https://raw.githubusercontent.com/Prince-singh001/Prince-singh001/output/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake"
+       width="100%">
 </p>
 
 ---
