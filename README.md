@@ -1,288 +1,275 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003B5C,100:00B4D8&height=230&section=header&text=Prince%20Singh&fontSize=55&fontColor=E6F7FF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=60&descSize=18" width="100%"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003B5C,100:00B4D8&height=220&section=header&text=Prince%20Singh&fontSize=50&fontColor=E6F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=62&descSize=17" width="100%" alt="Prince Singh Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=AI%2FML+Enthusiast;Python+Developer;Generative+AI+Learner;Machine+Learning+%7C+Deep+Learning;Computer+Vision+Developer;Building+Intelligent+Projects" />
+  <!-- Typing Animation -->
+  <a href="https://github.com/Prince-singh001">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Python+%26+Full+Stack+Developer;Generative+AI+%26+LLM+Practitioner;Computer+Vision+%26+Deep+Learning;Data+Structures+%26+Algorithms;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
+  </a>
 
-<br><br>
+  <br/><br/>
 
-<a href="https://github.com/Prince-singh001">
-<img src="https://img.shields.io/badge/GitHub-Prince--Singh-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=061826"/>
-</a>
+  <!-- Quick Social Badges -->
+  <a href="https://linkedin.com/in/prince-singh05/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Prince-singh001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://my-portfolio-gold-chi-92.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://kaggle.com/sprince001">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:sprince123ap@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://my-portfolio-gold-chi-92.vercel.app/static/assets/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledocs&logoColor=061826" alt="Resume"/>
+  </a>
 
-<a href="https://linkedin.com/in/prince-singh05/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=061826"/>
-</a>
+  <br/><br/>
 
-<a href="mailto:sprince123ap@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=061826"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Prince-singh001&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Prince-singh001&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+### 👨‍💻 About Me
 
-* 🤖 AI/ML enthusiast passionate about building intelligent applications
-* 🐍 Python developer focused on machine learning and AI development
-* 🧠 Exploring Machine Learning, Deep Learning, Computer Vision & Generative AI
-* 🌱 Currently learning **Generative AI, LLMs, Prompt Engineering & AI Application Development**
-* 🔭 Currently working on **InterviewerBuddy AI**
-* 🌾 Interested in AI-driven solutions for real-world problems
-* 💻 Practicing **Data Structures & Algorithms** and improving problem-solving skills
-* 🚀 Interested in innovative projects, hackathons and emerging technologies
-* ⚡ Fun fact: **I love turning AI ideas into real-world projects and learning something new with every build.**
+```yaml
+Name: Prince Singh
+Role: Python Developer || AI/ML Engineer || FullStack Developer
+Interests: Generative AI, Deep Learning, Computer Vision & Scalable Software
+Current Focus: Generative AI, Large Language Models (LLMs) & Intelligent Agents
+Active Project: InterviewerBuddy AI
+Passion: Solving complex real-world challenges through AI-driven innovation
+Motto: "Turn ambitious AI ideas into high-impact reality, one build at a time."
+```
+
+* 🤖 **AI/ML Specialist:** Passionate about architecting and deploying end-to-end intelligent systems.
+* 🐍 **Python Core:** Deep expertise in Python-based machine learning pipelines, automation, and backend development.
+* 🧠 **Exploring Frontiers:** Advancing in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, **Fine-Tuning**, and **Vision AI**.
+* 🌱 **Continuous Growth:** Mastering cutting-edge LLM frameworks, Prompt Engineering strategies, and AI agent architectures.
+* 💻 **Strong Fundamentals:** Rigorously solving **Data Structures & Algorithms** to build optimized, algorithmic solutions.
+* 🚀 **Collaborator & Innovator:** Always excited for hackathons, open-source initiatives, and impactful engineering collaborations.
 
 ---
 
-## 🚀 Current Focus
+### 🎯 Skill Proficiency & Focus
 
 ```text
-Generative AI        ███████████████░░░  Learning
-Machine Learning     █████████████████░░  Building
-Deep Learning        ███████████████░░░░  Exploring
-Computer Vision      ████████████████░░░  Building
-Python               ██████████████████░  Practicing
-DSA                  ██████████████░░░░░  Practicing
+Generative AI & LLMs    [███████████████░░░░░]  75%  -  Active Learning & Fine-tuning
+Machine Learning        [█████████████████░░░]  85%  -  Model Architecture & Training
+Deep Learning           [███████████████░░░░░]  75%  -  Neural Networks & Optimization
+Computer Vision         [████████████████░░░░]  80%  -  OpenCV & Visual Processing
+Python Development      [██████████████████░░]  90%  -  Core Engineering & Async
+Data Structures & Algo  [██████████████░░░░░░]  70%  -  Problem Solving & Optimization
 ```
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Toolkit
 
-### 👨‍💻 Programming
+<div align="center">
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-</p>
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **AI & Machine Learning** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> |
+| **Data & Scientific** | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/> |
+| **Backend & Web** | <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> |
+| **Dev Tools & Platforms** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> |
 
-### 🤖 AI / Machine Learning
+</div>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
-</p>
+<br/>
 
-### 📊 Data & Visualization
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
-</p>
-
-### 🌐 Development
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tensorflow,pytorch,opencv,sklearn,numpy,pandas,flask,django,react,mysql,git,github,vscode&theme=dark" alt="Skill Icons Grid" />
+</div>
 
 ---
 
-## 🧠 Generative AI
+### 🧠 Generative AI & Next-Gen Focus
 
-Currently exploring:
-
-* 🧩 Generative AI
-* 🧠 Large Language Models (LLMs)
-* ✍️ Prompt Engineering
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🤖 AI Agents
-* 🛠️ AI Application Development
-
----
-
-## 🔭 Featured Project
-
-### 🤖 InterviewerBuddy AI
-
-An AI-powered project focused on helping users prepare for interviews through intelligent and interactive features.
-
-**Focus:** AI • Python • Machine Learning • Generative AI
+```text
+├── 🧩 Generative AI Fundamentals & Neural Networks
+├── 🧠 Large Language Models (LLMs) & Transformers
+├── ✍️ Advanced Prompt Engineering & Context Management
+├── 🔎 Retrieval-Augmented Generation (RAG) Architecture
+├── 🤖 Autonomous Multi-Agent AI Systems
+└── 🛠️ End-to-End AI Application Deployment
+```
 
 ---
 
-## 🌾 Open Source / Collaboration
+### 🔭 Featured Projects
 
-### AgrotechSolution AI
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 InterviewerBuddy AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Active%20Development-00D9FF?style=flat-square" alt="Status"/>
+      </p>
+      <p>An intelligent AI-powered interview preparation companion designed to deliver real-time interactive assessments, tailored mock questions, and automated performance analytics.</p>
+      <ul>
+        <li><b>Tech Stack:</b> Python, Generative AI, LLMs, NLP, Streamlit / Web UI</li>
+        <li><b>Key Highlights:</b> Dynamic questionnaire generation, voice/text assessment, and intelligent feedback reports.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Prince-singh001">
+          <img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 AgrotechSolution AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Open%20Source-2EA043?style=flat-square" alt="Status"/>
+      </p>
+      <p>An agricultural AI diagnostic system leveraging Machine Learning and Computer Vision to detect crop anomalies, predict optimal yields, and empower modern farming decisions.</p>
+      <ul>
+        <li><b>Tech Stack:</b> Python, Computer Vision, OpenCV, Scikit-Learn</li>
+        <li><b>Key Highlights:</b> Automated disease detection, environmental data modeling, and actionable agricultural insights.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Prince-singh001/agritechsolution">
+          <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=061826" alt="Repo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-An AI-based project focused on applying technology and machine learning concepts to agricultural problem-solving.
-
-<a href="https://github.com/Prince-singh001/agritechsolution">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-00D9FF?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## 📂 My Projects
-
-All of my projects and experiments are available on my portfolio:
-
-<a href="https://my-portfolio-gold-chi-92.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-00D9FF?style=for-the-badge"/>
-</a>
-
----
-
-## 💻 Problem Solving
-
-I regularly practice Data Structures & Algorithms and competitive programming to improve my problem-solving and coding skills.
-
-<p align="center">
-
-<a href="https://leetcode.com/sprince01/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerearth.com/sprince123ap">
-<img src="https://img.shields.io/badge/HackerEarth-Profile-2C3454?style=for-the-badge&logo=hackerearth"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/sprincecf0f">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prince-singh001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-singh001&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Prince-singh001&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prince-singh001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<!-- ================= CONTRIBUTION ACTIVITY ================= -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <i>My GitHub activity over the last 31 days</i>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/Prince-singh001">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-singh001&theme=tokyo-night&hide_border=true&area=true"
-      alt="Prince Singh GitHub Contribution Graph"
-      width="100%"
-    />
+<div align="center">
+  <br/>
+  <a href="https://my-portfolio-gold-chi-92.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Explore%20All%20Projects%20on%20My%20Portfolio-00D9FF?style=for-the-badge&labelColor=061826" alt="Visit Portfolio"/>
   </a>
-</p>
-
-<br>
-
-<!-- ================= END CONTRIBUTION ================= -->
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+### 💻 Problem Solving & Competitive Coding
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prince-singh001/Prince-singh001/output/github-contribution-grid-snake.svg"
-       alt="GitHub Contribution Snake"
-       width="100%">
-</p>
+<div align="center">
+  <p>Sharpening algorithmic thinking, data structures, and optimal time-space complexity daily.</p>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/prince-singh05/">
-<img src="https://img.shields.io/badge/LinkedIn-Prince%20Singh-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Prince-singh001">
-<img src="https://img.shields.io/badge/GitHub-Prince--Singh-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://kaggle.com/sprince001">
-<img src="https://img.shields.io/badge/Kaggle-Prince%20Singh-20BEFF?style=for-the-badge&logo=kaggle"/>
-</a>
-
-<a href="mailto:sprince123ap@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/princesingh0408">
-<img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-</p>
+  <a href="https://leetcode.com/sprince01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-sprince01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sprincecf0f" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-sprincecf0f-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerearth.com/@sprince123ap" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-sprince123ap-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
+  </a>
+</div>
 
 ---
 
-## 📄 Resume
+### 📊 GitHub Analytics & Insights
 
-<a href="https://my-portfolio-gold-chi-92.vercel.app/static/assets/resume.pdf">
-<img src="https://img.shields.io/badge/📄%20View%20My%20Resume-00D9FF?style=for-the-badge"/>
-</a>
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Prince-singh001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=00D9FF&icon_color=00D9FF&text_color=E6F7FF&bg_color=0D1117" height="175" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-singh001&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=E6F7FF&bg_color=0D1117" height="175" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=Prince-singh001&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=E6F7FF&background=0D1117" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## ✨ Quote
+### 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prince-singh001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Trophies"/>
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+---
 
-</p>
+### 📈 Contribution Activity
+
+<div align="center">
+  <p><i>Visualizing consistency and active commits over time</i></p>
+  
+  <a href="https://github.com/Prince-singh001">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-singh001&theme=tokyo-night&hide_border=true&area=true&color=00D9FF" width="100%" alt="Prince Singh GitHub Contribution Graph"/>
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Grid Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Prince-singh001/Prince-singh001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+</div>
+
+---
+
+### 🌐 Connect & Collaborate
+
+<div align="center">
+  <p>Feel free to reach out for project collaborations, technical discussions, or opportunities!</p>
+
+  <a href="https://linkedin.com/in/prince-singh05/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Prince-singh001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Prince--singh001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/sprince001" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-sprince001-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sprince123ap@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-sprince123ap-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/princesingh0408" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-princesingh0408-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://my-portfolio-gold-chi-92.vercel.app/static/assets/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20Curriculum%20Vitae-00D9FF?style=for-the-badge&labelColor=061826" alt="Download CV / Resume"/>
+  </a>
+</div>
+
+---
+
+### ✨ Inspiring Thought
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote"/>
+</div>
 
 ---
 
 <div align="center">
-
-### 🚀 Build • Learn • Innovate
-
-**Thanks for visiting my profile! ⭐**
-
+  <p><b>⚡ Build • Learn • Innovate ⚡</b></p>
+  <p><i>Thank you for visiting my GitHub profile! Don't forget to star ⭐ my repositories.</i></p>
 </div>
