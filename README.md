@@ -1,39 +1,44 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003B5C,100:00B4D8&height=220&section=header&text=Prince%20Singh&fontSize=50&fontColor=E6F7FF&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20FullStack%20Developer&descAlignY=62&descSize=17" width="100%" alt="Prince Singh Banner"/>
+  <!-- Animated Header Banner with Dynamic Twinkling Effect & Aquamarine/Cyan Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:051329,35:004E92,70:00B4D8,100:80FFDB&height=230&section=header&text=✦%20Prince%20Singh%20✦&fontSize=52&fontColor=80FFDB&animation=twinkling&fontAlignY=36&desc=🚀%20Python%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20FullStack%20Developer&descAlignY=62&descSize=18&descColor=A5F3FC" width="100%" alt="Prince Singh Animated Banner"/>
 
-  <!-- Typing Animation -->
+  <!-- Futuristic Multi-Title Typing Animation -->
   <a href="https://github.com/Prince-singh001">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Developer;AI%2FML+Engineer;FullStack+Developer;Generative+AI+%26+LLM+Practitioner;Computer+Vision+%26+Deep+Learning;Data+Structures+%26+Algorithms;Building+Scalable+%26+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=880&lines=%E2%9A%A1+Python+Developer+%7C+Scalable+Async+Architectures;%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer+%7C+Model+Training;%F0%9F%8C%90+FullStack+Developer+%7C+React+%2B+Next.js+%2B+FastAPI;%F0%9F%A7%A0+Generative+AI+%26+LLMs+%7C+RAG+%26+Autonomous+Agents;%F0%9F%91%81%EF%B8%8F+Computer+Vision+Specialist+%7C+Deep+Learning;%F0%9F%9A%80+Turning+Ambitious+Ideas+Into+Intelligent+Reality" alt="Futuristic Typing Title Animation" />
   </a>
 
   <br/><br/>
 
-  <!-- Quick Social Badges -->
+  <!-- Dual-Tone Cyber Social Badges -->
   <a href="https://linkedin.com/in/prince-singh05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=051329" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Prince-singh001" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-00F0FF?style=for-the-badge&logo=github&logoColor=051329&labelColor=051329" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://my-portfolio-gold-chi-92.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-80FFDB?style=for-the-badge&logo=vercel&logoColor=051329&labelColor=051329" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://kaggle.com/sprince001" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=051329" alt="Kaggle"/>
   </a>
+  &nbsp;
   <a href="mailto:sprince123ap@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-FF5722?style=for-the-badge&logo=gmail&logoColor=white&labelColor=051329" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://my-portfolio-gold-chi-92.vercel.app/static/assets/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledocs&logoColor=061826" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-Download-F59E0B?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=051329" alt="Resume"/>
   </a>
 
   <br/><br/>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Prince-singh001&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" alt="Profile Views"/>
+  <!-- High-Contrast Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Prince-singh001&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge&labelColor=051329" alt="Profile Views"/>
 
 </div>
 
