@@ -248,7 +248,7 @@ Motto: "Turn ambitious AI ideas into high-impact reality, one build at a time."
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌾 AgrotechSolution AI</h3>
+      <h3 align="center">🌾 AgrotechSolution Assistant AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Open%20Source-2EA043?style=flat-square" alt="Status"/>
       </p>
